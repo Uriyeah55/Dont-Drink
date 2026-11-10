@@ -14,6 +14,8 @@ fight by Ville Nousiainen
 Anime Fight Music Loop #1 by Sirkoto51
 16-Bit Starter Pack by Bit By Bit Sound
 triumph by gvgmedia
+cyanic's Steam Achievements Integration was used to make achievements working, and cant thank them enough.
+
 
 Thanks to every artist who shared their creations to help make this. 
 You are truly wonderful.
